@@ -13,12 +13,12 @@ I've been super busy with work and other projects lately that I really don't hav
 ## Installation
 
 ``` bash
-$ npm install react-native-multiple-select --save
+$ npm install react-native-multiple-select-items --save
 ```
 or use yarn
 
 ``` bash
-$ yarn add react-native-multiple-select
+$ yarn add react-native-multiple-select-items
 ```
 
 
@@ -34,7 +34,7 @@ The snippet below shows how the component can be used
 // import component
 import React, { Component } from 'react';
 import { View } from 'react-native';
-import MultiSelect from 'react-native-multiple-select';
+import MultiSelect from 'react-native-multiple-select-items';
 
 const items = [{
     id: '92iijs7yta',
