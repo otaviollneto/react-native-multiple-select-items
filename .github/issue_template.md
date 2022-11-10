@@ -8,7 +8,7 @@ Add a short description of issue, preferably, a sentence.
   List the version of react-native and multi-select in use as below
   
   react-native: 0.48.1
-  react-native-multiple-select: 0.2.1
+  react-native-multiple-select-items: 0.2.1
 -->
 
 

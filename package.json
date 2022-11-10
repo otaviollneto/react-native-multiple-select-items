@@ -1,5 +1,5 @@
 {
-  "name": "react-native-multiple-select",
+  "name": "react-native-multiple-select-items",
   "version": "0.5.12",
   "description": "Simple multi-select component for react-native",
   "main": "index.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/toystars/react-native-multiple-select.git"
+    "url": "git+https://github.com/otaviollneto/react-native-multiple-select-items.git"
   },
   "keywords": [
     "reactnative",
@@ -31,9 +31,9 @@
   "author": "Mustapha Babatunde Oluwaleke",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/toystars/react-native-multiple-select/issues"
+    "url": "https://github.com/otaviollneto/react-native-multiple-select-items/issues"
   },
-  "homepage": "https://github.com/toystars/react-native-multiple-select#readme",
+  "homepage": "https://github.com/otaviollneto/react-native-multiple-select-items#readme",
   "dependencies": {
     "prop-types": "^15.7.2"
   },
